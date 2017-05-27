@@ -2,6 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
+	<string>spinner_glow_10</string>
+	<string>spinner_glow_8</string>
+	<string>spinner_u11_2</string>
 	<string>spinner_glow_1</string>
 	<string>spinner_glow_2</string>
 	<string>spinner_glow_3</string>
@@ -9,9 +12,7 @@
 	<string>spinner_glow_5</string>
 	<string>spinner_glow_6</string>
 	<string>spinner_glow_7</string>
-	<string>spinner_glow_8</string>
 	<string>spinner_glow_9</string>
-	<string>spinner_glow_10</string>
 	<string>spinner_glow_11</string>
 	<string>spinner_glow_12</string>
 	<string>spinner_glow_13</string>
@@ -36,7 +37,6 @@
 	<string>spinner_glow_32</string>
 	<string>spinner_glow_33</string>
 	<string>spinner_u11_1</string>
-	<string>spinner_u11_2</string>
 	<string>spinner_u11_3</string>
 	<string>spinner_u11_4</string>
 	<string>spinner_u11_5</string>
