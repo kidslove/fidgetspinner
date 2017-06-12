@@ -6,13 +6,19 @@
 	<string>spinner_glow_8</string>
 	<string>spinner_u11_2</string>
 	<string>spinner_glow_1</string>
+	<string>spinner_u15_1</string>
 	<string>spinner_glow_2</string>
+	<string>spinner_u11_1</string>
 	<string>spinner_glow_3</string>
+	<string>spinner_u11_3</string>
 	<string>spinner_glow_4</string>
 	<string>spinner_glow_5</string>
 	<string>spinner_glow_6</string>
+	<string>spinner_u11_7</string>
 	<string>spinner_glow_7</string>
+	<string>spinner_u13_5</string>
 	<string>spinner_glow_9</string>
+	<string>spinner_u12_10</string>
 	<string>spinner_glow_11</string>
 	<string>spinner_glow_12</string>
 	<string>spinner_glow_13</string>
@@ -34,12 +40,9 @@
 	<string>spinner_glow_29</string>
 	<string>spinner_glow_30</string>
 	<string>spinner_glow_31</string>
-	<string>spinner_u11_1</string>
-	<string>spinner_u11_3</string>
 	<string>spinner_u11_4</string>
 	<string>spinner_u11_5</string>
 	<string>spinner_u11_6</string>
-	<string>spinner_u11_7</string>
 	<string>spinner_u11_8</string>
 	<string>spinner_u11_9</string>
 	<string>spinner_u11_10</string>
@@ -52,12 +55,10 @@
 	<string>spinner_u12_7</string>
 	<string>spinner_u12_8</string>
 	<string>spinner_u12_9</string>
-	<string>spinner_u12_10</string>
 	<string>spinner_u13_1</string>
 	<string>spinner_u13_2</string>
 	<string>spinner_u13_3</string>
 	<string>spinner_u13_4</string>
-	<string>spinner_u13_5</string>
 	<string>spinner_u13_6</string>
 	<string>spinner_u13_7</string>
 	<string>spinner_u13_8</string>
@@ -69,7 +70,6 @@
 	<string>spinner_u14_4</string>
 	<string>spinner_u14_5</string>
 	<string>spinner_u14_6</string>
-	<string>spinner_u15_1</string>
 	<string>spinner_u15_2</string>
 	<string>spinner_u15_3</string>
 	<string>spinner_u15_4</string>
